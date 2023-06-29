@@ -13,7 +13,7 @@ jobs:
         with:
           node-version: 16
       - run: yarn
-      - run: yarn build-packages
+      - run: yarn build-package
 
   publish-gpr:
     needs: build
