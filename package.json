@@ -1,6 +1,6 @@
 {
   "name": "design-system-test-jldrm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "author": "Jusepeliao (JLDRM)",
   "description": "CRA + Storybook + NPM package build",
